@@ -1,1 +1,1 @@
-"# investigating-No-show-appointment-Dataset" 
+In this project, I analyzed the "No-Show Appointments" dataset to uncover insights into the factors that influence whether a patient shows up for their appointment. Using Python libraries like NumPy and pandas, I aimed to make the data analysis process more effective, ultimately providing valuable insights into patient behavior.
